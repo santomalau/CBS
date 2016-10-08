@@ -3,3 +3,6 @@ NPM  : 140810160035
 TTL  : Medan, 03 Oktober 1998
 JK   : Laki-laki
 Hobbi: Berenang
+
+Nama : Ucup
+NPM  : 17
